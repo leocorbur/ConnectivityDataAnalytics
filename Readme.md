@@ -167,6 +167,15 @@ Este gráfico confirma que la migración predominante ha sido hacia la **fibra �
 3. **Ingresos por Usuario**
    - Fórmula: (Ingresos totales / Número total de usuarios) 
    - Este KPI evalúa la rentabilidad por usuario.
+     
+# Conclusión
+
+Este informe acompaña una Notebook que realiza un Análisis Exploratorio de Datos (EDA) utilizando los conjuntos de datos de [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/). Se ha trabajado en colaboración con Turbo Fibra Ltd., identificando oportunidades clave para el sector de Internet en Argentina.
+
+A través de diversas herramientas como Pandas, Numpy, Matplotlib y Seaborn, se ha explorado la infraestructura demográfica y el comportamiento del acceso a Internet en distintas provincias. Las recomendaciones incluyen la expansión de servicios de Fibra Óptica, alianzas estratégicas con empresas de telefonía fija, y estrategias de mercado competitivas.
+
+Este análisis proporciona a Turbo Fibra Ltd. una comprensión profunda del sector, facilitando la toma de decisiones informadas para revolucionar el acceso a Internet en Argentina.
+
 
 **Nota:** Buenos Aires no se incluyó en algunos gráficos debido a su magnitud, pero su comportamiento es similar a las provincias evaluadas.
 
